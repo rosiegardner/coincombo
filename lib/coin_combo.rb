@@ -16,7 +16,7 @@ class Coins
 
     p_coin = (n_remainder / 0.01).floor
 
-    
+    #hello
     # return "#{q_coin}, #{d_coin}, #{n_coin}, #{p_coin}"
     return [q_coin, d_coin, n_coin, p_coin]
   end
